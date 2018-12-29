@@ -1,0 +1,11 @@
+#container, #js {
+    margin:auto;
+    width:90%;
+    height:400px;
+    background-color: grey;
+    text-align: center;
+}
+
+#js {
+    background-color: rgb(88, 86, 86);
+}
